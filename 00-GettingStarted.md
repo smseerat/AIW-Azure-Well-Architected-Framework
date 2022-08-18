@@ -3,7 +3,7 @@
 1. Once the environment is provisioned, a virtual machine (LabVM) and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the the lab.
 
 
-1. To get the lab environment details, you can select **Environment Details (1)** tab. Additionally, the credentials will also be emailed to your email address provided at registration. You can also open the Lab Guide on separate and full window by selecting the **Split Window (2)** from lower right corner. 
+1. To get the lab environment details, you can select **Environment Details (1)** tab. Additionally, the credentials will also be emailed to your email address provided at the time of registration. You can also open the Lab Guide on separate and full window by selecting the **Split Window (2)** from lower right corner. 
 
    ![](./media/gs-04.png "Lab Environment")
  
