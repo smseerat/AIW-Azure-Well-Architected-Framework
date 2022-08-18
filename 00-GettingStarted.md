@@ -26,7 +26,7 @@
    
      ![](./media/image8.png "Enter Password")
      
-   > If you are presented with **Help us protect your account** dialog box, then select **Skip for now** option.
+   >**Note:** If you are presented with **Help us protect your account** dialog box, then select **Skip for now** option.
 
        
     ![](./media/MFA.png "Enter Password")
