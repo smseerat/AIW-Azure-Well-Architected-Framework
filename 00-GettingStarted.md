@@ -4,10 +4,13 @@
 
    ![](./media/getting-started4.png "Lab Environment")
 
-1. To get the lab environment details, you can select **Environment Details** tab. Additionally, the credentials will also be emailed to your email address provided at registration. You can also open the Lab Guide on separate and full window by selecting the **Split Window** from lower right corner. Also, you can start, stop and restart virtual machines from **Virtual Machines** tab.
+1. To get the lab environment details, you can select **Environment Details (1)** tab. Additionally, the credentials will also be emailed to your email address provided at registration. You can also open the Lab Guide on separate and full window by selecting the **Split Window (2)** from lower right corner. 
 
    ![](./media/gs-01.png "Lab Environment")
  
+1. You can Start/Stop the lab resources (Virtual Machines) by navigating to the **Resources tab (1)** on top of the lab guide and use the **Actions** provided against resources. They are - **Start (2), Restart (3) and Stop (4)**.
+
+   ![](./media/gs-03.png "Lab Environment")
 
 ## Login to Azure Portal
 1. In the JumpVM, click on Azure portal shortcut of Microsoft Edge browser which is created on desktop.
@@ -41,7 +44,7 @@
    
 1. Confirm you have all resource group are present as shown below.
 
-    ![](./media/gs2.png "Resource groups")
+    ![](./media/gs-02.png "Resource groups")
    
 1. Now, click on the **Next** from lower right corner to move on next page.
 
