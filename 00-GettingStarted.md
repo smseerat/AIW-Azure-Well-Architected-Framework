@@ -6,7 +6,7 @@
 
 1. To get the lab environment details, you can select **Environment Details** tab. Additionally, the credentials will also be emailed to your email address provided at registration. You can also open the Lab Guide on separate and full window by selecting the **Split Window** from lower right corner. Also, you can start, stop and restart virtual machines from **Virtual Machines** tab.
 
-   ![](./media/getting-started2.png "Lab Environment")
+   ![](./media/gs-01.png "Lab Environment")
  
 
 ## Login to Azure Portal
@@ -41,7 +41,7 @@
    
 1. Confirm you have all resource group are present as shown below.
 
-    ![](./media/getting-started3.png "Resource groups")
+    ![](./media/gs2.png "Resource groups")
    
 1. Now, click on the **Next** from lower right corner to move on next page.
 
