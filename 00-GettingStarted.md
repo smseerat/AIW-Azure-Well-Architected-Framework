@@ -47,5 +47,5 @@
 
     ![](./media/gs-02.png "Resource groups")
    
-1. From here you will can perform the lab.
+1. Now, click on the **Next** button from lower right corner to move on next page.
 
