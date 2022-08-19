@@ -5,7 +5,9 @@
 
 1. To get the lab environment details, you can select **Environment Details (1)** tab. Additionally, the credentials will also be emailed to your email address provided at the time of registration. You can also open the Lab Guide on separate and full window by selecting the **Split Window (2)** from lower right corner. 
 
-   ![](./media/gs-04.png "Lab Environment")
+You can also hit **Collapse (3)** at the bottom of the instructions pane to free up more screen real estate.
+
+   ![](./media/gs-08.png "Lab Environment")
  
 1. You can Start/Stop the lab resources (Virtual Machines) by navigating to the **Resources tab (1)** on top of the lab guide and use the **Actions** provided against resources. They are - **Start (2), Restart (3) and Stop (4)**.
 
